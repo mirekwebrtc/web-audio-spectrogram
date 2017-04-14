@@ -1,0 +1,24 @@
+{
+  "name": "spectrum",
+  "version": "1.0.0",
+  "description": "real-time spectrogram of mic input",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirekwebrtc/spectrum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mirekwebrtc/spectrum/issues"
+  },
+  "homepage": "https://github.com/mirekwebrtc/spectrum#readme"
+}
